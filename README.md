@@ -1,3 +1,3 @@
-Sinsy implementation for macOS
+sinsy xcode project for macOS
 ===
 
